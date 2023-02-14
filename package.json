@@ -1,0 +1,23 @@
+{
+  "name": "kfk-lib",
+  "version": "0.1.6",
+  "description": "kafka lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/tlib.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yanmingsohu/kfk-lib"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "jym",
+  "license": "MIT",
+  "dependencies": {
+    "configuration-lib": "^0.1.15",
+    "kafka-node": "^0.2.25",
+    "logger-lib": "^0.1.22"
+  }
+}
